@@ -1,0 +1,7 @@
+APEXPLANET INTERNSHIP — TASK 1 EDA INSIGHTS
+================================================
+1. Highest-sales category: Office Supplies (sales = 493,104.00).
+2. Highest-profit category: Office Supplies (profit = 81,562.11).
+3. Highest-sales region: West (sales = 462,410.08).
+4. Most profitable sub-category: Paper (profit = 28,480.99).
+5. Lowest-profit sub-category: Tables (profit = -1,111.59).
